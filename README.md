@@ -104,4 +104,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Icons provided by Ionicons
 - Charts powered by Victory Native
-- UI inspiration from various modern mobile applications.
+- UI inspiration from various modern mobile applications
