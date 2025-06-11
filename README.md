@@ -67,6 +67,7 @@ frontend/
 │   └── utils/         # Utility functions
 ├── App.tsx           # Root component
 └── package.json      # Project dependencies
+.
 ```
 
 ## Features in Detail
